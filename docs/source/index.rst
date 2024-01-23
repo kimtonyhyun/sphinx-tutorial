@@ -12,8 +12,10 @@ Welcome to Sphinx tutorial's documentation!
    This project is under active development.
 
 .. toctree::
+   usage
    :maxdepth: 2
    :caption: Contents:
+
 
 
 
