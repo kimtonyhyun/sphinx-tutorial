@@ -4,7 +4,7 @@ Motorization
 Motor controller parameters
 ---------------------------
 
-.. figure:: topcoat.jpg
+.. figure:: _static/topcoat.jpg
    :scale: 100 %
    :alt: Picture of topcoat
 
