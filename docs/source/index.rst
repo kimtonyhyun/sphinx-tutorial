@@ -15,9 +15,9 @@ Check out the :doc:`usage` section for further information, including how to :re
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
    usage
    motorization
+   :caption: Contents:
 
 
 Indices and tables
