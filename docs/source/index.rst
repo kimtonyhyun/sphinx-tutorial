@@ -25,9 +25,3 @@ Check out the :doc:`usage` and the :doc:`motorization` sections for further info
 
    motorization
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
