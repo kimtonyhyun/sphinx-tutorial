@@ -14,8 +14,9 @@ Check out the :doc:`usage` and the :doc:`motorization` sections for further info
    This project is under active development.
 
 .. toctree::
-   :maxdepth: 2
+   usage
    motorization
+   :maxdepth: 2
    :caption: Contents:
 
 
