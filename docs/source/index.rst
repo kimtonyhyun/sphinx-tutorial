@@ -15,13 +15,13 @@ Check out the :doc:`usage` and the :doc:`motorization` sections for further info
 
 .. toctree::
    :maxdepth: 2
-   :caption: Section 1
+   :caption: Introduction
 
    usage
 
 .. toctree::
    :maxdepth: 2
-   :caption: Section 2
+   :caption: Mechanical design
 
    motorization
 
