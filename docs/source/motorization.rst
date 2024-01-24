@@ -5,7 +5,7 @@ Motor controller parameters
 ---------------------------
 
 .. figure:: _static/topcoat.jpg
-   :scale: 100 %
+   :width: 400
    :alt: Picture of topcoat
 
    This is the caption.
