@@ -2,7 +2,7 @@ Motorization
 ============
 
 Motor controller parameters
-------------
+---------------------------
 
 To use Lumache, first install it using pip:
 
