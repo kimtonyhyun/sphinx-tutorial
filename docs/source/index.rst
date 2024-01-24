@@ -17,10 +17,7 @@ Check out the :doc:`usage` section for further information, including how to :re
    :maxdepth: 2
    :caption: Contents:
    usage
-   :caption: Robot mechanics:
    motorization
-
-
 
 
 Indices and tables
