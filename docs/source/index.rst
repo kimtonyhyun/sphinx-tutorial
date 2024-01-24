@@ -16,10 +16,9 @@ Check out the :doc:`usage` and the :doc:`motorization` sections for further info
 .. toctree::
    :maxdepth: 2
 
-   :caption: Contents
-
    usage
    motorization
+   :caption: Section 1
 
 Indices and tables
 ==================
