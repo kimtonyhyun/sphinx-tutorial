@@ -15,9 +15,9 @@ Check out the :doc:`usage` section for further information, including how to :re
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: Contents:
    usage
-   :caption: Robot mechanics
+   :caption: Robot mechanics:
    motorization
 
 
