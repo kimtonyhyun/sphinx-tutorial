@@ -18,6 +18,11 @@ Check out the :doc:`usage` and the :doc:`motorization` sections for further info
    :caption: Section 1
 
    usage
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Section 2
+
    motorization
 
 Indices and tables
