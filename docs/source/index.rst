@@ -14,9 +14,11 @@ Check out the :doc:`usage` section for further information, including how to :re
    This project is under active development.
 
 .. toctree::
-   usage
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
+   usage
+   :caption: Robot mechanics
+   motorization
 
 
 
